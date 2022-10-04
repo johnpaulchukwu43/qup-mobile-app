@@ -1,0 +1,10 @@
+export {default as About} from './About';
+export {default as Agreement} from './Agreement';
+export {default as Home} from './Home';
+export {default as Notifications} from './Notifications';
+export {default as NotificationsSettings} from './NotificationsSettings';
+export {default as Privacy} from './Privacy';
+export {default as Profile} from './Profile';
+export {default as Register} from './Register';
+export {default as Login} from './Login';
+export {default as Settings} from './Settings';
